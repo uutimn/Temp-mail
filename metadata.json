@@ -1,0 +1,6 @@
+{
+  "name": "Temp Mail",
+  "description": "A feature-rich, high-fidelity clone of temp-mail.io. Create temporary email addresses, choose custom domains, and simulate receiving realistic account validations, OTP codes, and welcome emails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
